@@ -1,4 +1,4 @@
-0414更新,#genre#
+2023/04/14更新,#genre#
 港台频道,#genre#
 凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
@@ -10,11 +10,11 @@
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-TVBS新闻台HD,rtmp://9wv7.mine.nu/sat/tv551
 TVBS HD,http://2023.stream-link.org/live/1711676066
-TVBS新闻台,http://2023.stream-link.org/live/401131254
+TVBS HD,http://2023.stream-link.org/live/401131254
+寰宇國際新聞,http://2023.stream-link.org/live/1212532853
+寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
 中天综合HD,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天娱乐台HD,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天亚洲台,http://2023.stream-link.org/live/1096161090
@@ -24,20 +24,12 @@ TVBS新闻台,http://2023.stream-link.org/live/401131254
 台視新聞HD,http://2023.stream-link.org/live/966381653
 三立新聞,http://2023.stream-link.org/live/1803236734
 三立新聞+,http://2023.stream-link.org/live/1998094138
-寰宇國際新聞,http://2023.stream-link.org/live/1212532853
-寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941621
-TVBS,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 三立新闻,http://2023.stream-link.org/live/1803236734
@@ -120,3 +112,13 @@ CCTV-17,http://jiexi.bulisite.top/ysp.php?id=cctv17
 甘肃卫视,http://jiexi.bulisite.top/ysp.php?id=gsws
 青海卫视,http://jiexi.bulisite.top/ysp.php?id=qhws
 天津卫视,http://jiexi.bulisite.top/ysp.php?id=tjws
+
+电视剧,#genre#
+狄仁杰,http://hw-tct.douyucdn.cn/live/6027991rq3ZIY8zh.flv?uuid=
+狄仁杰,http://epg.112114.xyz/douyu/6027991
+洗冤录,http://live.aptvapp.com/live/huya/23903130
+庆余年,http://live.aptvapp.com/live/huya/11352960
+庆余年,http://hw-tct.douyucdn.cn/live/5908256rsU8gO2v8.flv?uuid=
+庆余年,http://diyp.112114.xyz/douyu/5908256
+庆余年,http://epg.112114.xyz/douyu/5908256
+电影,#genre#
