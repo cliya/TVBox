@@ -1,10 +1,10 @@
 //=============多仓更新日期 2023/04/13=============//
 //GitHub链接加速缓存地址（国内可能无法访问）：https://github.abskoop.workers.dev
-//本多仓库在线链接：https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/DuoCang.txt
+//本多仓库在线链接：https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/duocang.txt
 
 {"storeHouse": 
 [ 
-{"sourceName":"👇自用仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/Cangku.txt" }, 
+{"sourceName":"👇自用仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/cangku.txt" }, 
 {"sourceName":"🌃主力仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt" }, 
 {"sourceName":"🌸超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
 //{"sourceName":"🏃精品仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
