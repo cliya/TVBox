@@ -2,7 +2,7 @@
 
 //GitHub链接加速缓存地址（国内可能无法访问，需要梯子）：https://github.abskoop.workers.dev
 
-//本成人单仓库在线链接：https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/18.txt
+//本成人单仓库在线链接：https://cdn.staticaly.com/gh/mengzehe/tvbox/main/18.txt
 
 
 {"urls": 
