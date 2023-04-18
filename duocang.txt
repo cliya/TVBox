@@ -7,7 +7,7 @@ https://cdn.statically.io/gh/mengzehe/TVBox/main/duocang.txt
 
 {"storeHouse": 
 [ 
-{"sourceName":"👇自用仓库","sourceUrl":"https://cdn.staticaly.io/gh/mengzehe/tvbox/main/cangku.txt" }, 
+{"sourceName":"👇自用仓库","sourceUrl":"https://cdn.statically.io/gh/mengzehe/tvbox/main/cangku.txt" }, 
 {"sourceName":"☁️云星在线仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"🐼多多主力仓","sourceUrl":"http://tvmvip110.club/xcdc.txt"},
 {"sourceName":"🐞多多网络仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"},
@@ -28,7 +28,7 @@ https://cdn.statically.io/gh/mengzehe/TVBox/main/duocang.txt
 //{"sourceName":"🍀大烟管仓库","sourceUrl":"https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"},
 {"sourceName":"🌸电视盒子仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"},
 //以下为18+成人仓库
-{"sourceName":"🐰自用成人仓","sourceUrl":"https://cdn.staticaly.io/gh/mengzehe/tvbox/main/18.txt"},
+{"sourceName":"🐰自用成人仓","sourceUrl":"https://cdn.statically.io/gh/mengzehe/tvbox/main/18.txt"},
 {"sourceName":"🚄喵公子仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
 {"sourceName":"🍀大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
 {"sourceName":"😍大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
