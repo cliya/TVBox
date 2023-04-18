@@ -1,6 +1,6 @@
 //=============单仓更新日期 2023/04/13=============//
 //GitHub链接加速缓存地址（国内可能无法访问，需要梯子）：https://github.abskoop.workers.dev
-//本单仓库在线链接：https://cdn.jsdelivr.net/gh/mengzehe/TVBox@main/cangku.txt
+//本单仓库在线链接：https://cdn.staticaly.com/gh/mengzehe/tvbox/main/cangku.txt
 
 {"urls":
 [
