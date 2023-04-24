@@ -4,11 +4,15 @@ TVBox自用源以及仓库源、直播源等
 
 多仓地址：
 
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
+
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/duocang.json
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/duocang.json
 
 单仓地址：
+
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
 
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/cangku.json
 
@@ -16,17 +20,23 @@ https://gitea.com/mengzehe/tvbox/raw/branch/main/cangku.json
 
 成人仓地址：
 
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json
+
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/18.json
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/18.json
 
 直播地址：
 
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.txt
+
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/live.txt
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/live.txt
 
 成人直播地址：
+
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18live.txt
 
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/18live.txt
 
