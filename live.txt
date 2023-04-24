@@ -12,7 +12,7 @@
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 TVBS HD,http://2023.stream-link.org/live/1711676066
-TVBS HD,http://2023.stream-link.org/live/401131254
+TVBS新闻台,http://2023.stream-link.org/live/401131254
 寰宇國際新聞,http://2023.stream-link.org/live/1212532853
 寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
 中天综合HD,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
