@@ -1,37 +1,36 @@
 //=============多仓更新日期 2023/04/13=============
 
 //本多仓单仓库在线链接：
-//https://github.com/mengzehe/TVBox/raw/main/duocang.json
-
+//https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
 //https://cdn.staticaly.com/gh/mengzehe/tvbox/main/duocang.txt
 //https://cdn.statically.io/gh/mengzehe/TVBox/main/duocang.txt
 
 {"storeHouse": 
 [ 
-{"sourceName":"👇自用仓库","sourceUrl":"https://github.com/mengzehe/TVBox/raw/main/cangku.json" }, 
-{"sourceName":"☁️云星在线仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"🐼多多主力仓","sourceUrl":"http://tvmvip110.club/xcdc.txt"},
-{"sourceName":"🐞多多网络仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"},
-{"sourceName":"📀多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
-{"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
-{"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
-{"sourceName":"🐰多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
-{"sourceName":"🌃主力仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt" }, 
-{"sourceName":"🌸超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
-//{"sourceName":"🏃精品仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
-//{"sourceName":"🎀精品仓库102","sourceUrl":"https://pan.css.lc/api/v3/file/get/89920/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%BF%E8%89%B2%E4%BB%93%E5%BA%93.txt?sign=kHRUFbInXSY091BK6bzSDmd2gReOQI6Az7AuxS6yPbc%3D%3A0 " }, 
-//{"sourceName":"👒嘟嘟仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt" }, 
-{"sourceName":"🌙月光宝盒仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
-{"sourceName":"🌙月光宝盒仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
-{"sourceName":"🌙月光宝盒仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
-{"sourceName":"🌙月光宝盒仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
-{"sourceName":"🍀大烟管仓库①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"},
-//{"sourceName":"🍀大烟管仓库","sourceUrl":"https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"},
-{"sourceName":"🌸电视盒子仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"},
+{"sourceName":"自用在线仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json" }, 
+{"sourceName":"云星在线仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"多多主力仓","sourceUrl":"http://tvmvip110.club/xcdc.txt"},
+{"sourceName":"多多网络仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"},
+{"sourceName":"多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
+{"sourceName":"主力仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt" }, 
+{"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
+//{"sourceName":"精品仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
+//{"sourceName":"精品仓库102","sourceUrl":"https://pan.css.lc/api/v3/file/get/89920/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%BF%E8%89%B2%E4%BB%93%E5%BA%93.txt?sign=kHRUFbInXSY091BK6bzSDmd2gReOQI6Az7AuxS6yPbc%3D%3A0 " }, 
+//{"sourceName":"嘟嘟仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt" }, 
+{"sourceName":"月光宝盒仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+{"sourceName":"月光宝盒仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+{"sourceName":"月光宝盒仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
+{"sourceName":"月光宝盒仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
+{"sourceName":"大烟管仓库①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"},
+//{"sourceName":"大烟管仓库","sourceUrl":"https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"},
+{"sourceName":"电视盒子仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"},
 //以下为18+成人仓库
-{"sourceName":"🐰自用成人仓","sourceUrl":"https://github.com/mengzehe/TVBox/raw/main/18.json"},
-{"sourceName":"🚄喵公子仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
-{"sourceName":"🍀大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
-{"sourceName":"😍大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
+{"sourceName":"自用成人仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json"},
+{"sourceName":"喵公子仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
+{"sourceName":"大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
+{"sourceName":"大烟管18+","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"}
 ] 
 }
