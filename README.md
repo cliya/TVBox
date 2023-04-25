@@ -18,7 +18,7 @@ https://cdn.staticaly.com/gh/mengzehe/tvbox/main/cangku.json
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/cangku.json
 
-成人仓地址：
+18+仓地址：
 
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json
 
@@ -34,7 +34,7 @@ https://cdn.staticaly.com/gh/mengzehe/tvbox/main/live.txt
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/live.txt
 
-成人直播地址：
+18+直播地址：
 
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18live.txt
 
