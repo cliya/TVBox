@@ -36,7 +36,7 @@
 {"url":"https://dybz.store/dybz","name": "大眼线路"},
 {"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路"},
 {"url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name": "免软线路"},
-{"url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "巧计线路"},
+//{"url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "巧计线路"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/zhuiju.json","name": "JS影视剧"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/py/py.json","name": "PY影视剧"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/dongman.json","name": "动漫专线"},
