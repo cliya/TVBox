@@ -1,5 +1,5 @@
 # TVBox
-TVBox自用源以及仓库源、直播源等
+TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：【一般缓存更新时间比较长，为天左右】
 
 多仓地址：
@@ -26,13 +26,17 @@ https://cdn.staticaly.com/gh/mengzehe/tvbox/main/18.json
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/18.json
 
-直播地址：
+Tvbox直播地址：
 
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.txt
 
 https://cdn.staticaly.com/gh/mengzehe/tvbox/main/live.txt
 
 https://gitea.com/mengzehe/tvbox/raw/branch/main/live.txt
+
+Tivimate直播地址：
+
+https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.m3u
 
 18+直播地址：
 
