@@ -1,0 +1,35 @@
+//=============多仓更新日期 2023/06/23=============
+
+//本多仓仓库在线链接：
+//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
+//https://raw.iqiq.io/mengzehe/tvbox/main/自用多仓
+
+
+{"storeHouse": 
+[ 
+{"sourceName":"自己专用单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓" }, 
+{"sourceName":"放学回家单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
+{"sourceName":"云星在线单仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"业余奇奇单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
+{"sourceName":"业余日后单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+{"sourceName":"日后精选单仓","sourceUrl":"http://rihou.cc:66/多仓/0.php"},
+//{"sourceName":"多多聚合多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"},
+{"sourceName":"多多优选单仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
+//{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
+//{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
+//{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
+{"sourceName":"刘备精选单仓","sourceUrl":"https://raw.liucn.cc/box/dc.txt" }, 
+{"sourceName":"高天流云多仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/Zaku/DC-main.json" }, 
+{"sourceName":"超级仓库单仓","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
+//{"sourceName":"月光宝盒仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+//{"sourceName":"月光宝盒仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+//{"sourceName":"月光宝盒仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
+//{"sourceName":"月光宝盒仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
+{"sourceName":"月光优选仓①","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/a.json"},
+{"sourceName":"月光备用仓②","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/b.json"},
+{"sourceName":"月光网络仓③","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/c.json"},
+{"sourceName":"月光大咖仓④","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/d.json"},
+{"sourceName":"大烟管仓库①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"},
+{"sourceName":"电视盒子单仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"}
+] 
+}

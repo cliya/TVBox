@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://ghproxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://ghproxy.com/https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 group-title="虎牙电影",星爷
+http://mmitv.top/pltv/huya.php?id=11342412
